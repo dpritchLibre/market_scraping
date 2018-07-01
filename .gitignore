@@ -1,0 +1,5 @@
+# store login information outside of the repo
+credentials.json
+
+# compiled Python files
+__pycache__
